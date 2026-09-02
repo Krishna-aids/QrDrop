@@ -1,0 +1,6 @@
+{
+  "name": "QRDrop",
+  "description": "Send images in full original quality with zero internet, using only optical QR light streams.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
